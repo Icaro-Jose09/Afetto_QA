@@ -13,7 +13,7 @@
 
 ## Entrega
 
-- **Azure DevOps (Boards + Test Plans):** https://dev.azure.com/MR562403/Afetto_
+- **Azure DevOps (Boards + Test Plans):** https://dev.azure.com/MR562403/Afetto .
   
 - **Vídeo da automação de testes :** https://www.youtube.com/watch?v=T76KFAtqssY
 
